@@ -6,6 +6,10 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![GitLab](https://img.shields.io/badge/GitLab-Repo-orange)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c8dd928-71e3-4f5a-9573-e3cc1c9a1bd3/deploy-status)](https://app.netlify.com/sites/contact-form-front-end-mentor/deploys)
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/contact-form) 
+![Contributions](https://img.shields.io/gitlab/contributors/Yashi-Singh-9/contact-form)
 
 ## Table of contents
 
@@ -47,8 +51,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://gitlab.com/Yashi-Singh-9/contact-form.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/contact-form-3uTuMRWuTn)
+- [Live Site URL](https://contact-form-front-end-mentor.netlify.app/)
 
 ## Installation
 
