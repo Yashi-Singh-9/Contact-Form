@@ -14,8 +14,8 @@ Thank you for considering a contribution to this project! Whether you are fixing
 2. **Clone the Forked Repository:**  
    Clone the repository to your local machine to start working on it.
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/contact-form.git
-   cd repo-name
+   git clone https://github.com/Yashi-Singh-9/Contact-Form.git
+   cd Contact-Form
    ```
 
 3. **Create a New Branch:**  
