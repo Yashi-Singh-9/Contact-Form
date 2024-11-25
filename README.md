@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/contact-form.git
+   git clone https://github.com/Yashi-Singh-9/Contact-Form.git
    ```
 2. Navigate to the project directory:
    ```bash
