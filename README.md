@@ -7,7 +7,7 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3c8dd928-71e3-4f5a-9573-e3cc1c9a1bd3/deploy-status)](https://app.netlify.com/sites/contact-form-front-end-mentor/deploys)
 ![License](https://img.shields.io/badge/License-MIT-green)  
-![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Contact-Form) 
+![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Contact-Form?cache=0) 
 
 ## Table of contents
 
